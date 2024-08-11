@@ -1,9 +1,10 @@
 import './App.css';
+import Element1 from './Element1.js';
 
 function App() {
   return (
     <>
-    <h1>Hello, React!</h1>
+    <Element1 />
     </>
   );
 }
