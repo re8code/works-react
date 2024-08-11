@@ -1,0 +1,19 @@
+.box_2nd {
+  width: 1000px; height: 300px;
+  background-color: lightgray;
+  margin: 0 auto;
+}
+
+.ele2_p {
+  width: 210px; float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  background-color: orange;
+}
+
+.ele2_p span {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 80px;
+}
