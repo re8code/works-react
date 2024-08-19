@@ -3,8 +3,13 @@
   background-color: lightgray;
   margin: 0 auto;
 }
+.box_3rd {
+  width: 1000px; height: 300px;
+  background-color: plum;
+  margin: 10px auto;
+}
 
-.ele2_p {
+.element2_p {
   width: 210px; float: left;
   text-align: center;
   padding: 10px;
@@ -12,7 +17,7 @@
   background-color: orange;
 }
 
-.ele2_p span {
+.element2_p span {
   font-size: 30px;
   font-weight: 700;
   line-height: 80px;
